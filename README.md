@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-I'm @CrashPilotQA, a passionate Manual Tester / Junior Developer excited to kickstart my career and contribute to projects requiring manual testing. Currently seeking job opportunities! Hence, building his portfolio on GitHub. 💼"
+I'm @CrashPilotQA, a passionate Manual Tester / Junior Developer excited to kickstart his career and contribute to projects requiring manual testing. Currently seeking job opportunities! Hence, building his portfolio on GitHub. 💼"
 
 ## 🔧 Current Focus
 
