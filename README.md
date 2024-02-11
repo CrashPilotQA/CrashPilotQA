@@ -4,7 +4,7 @@ I'm @CrashPilotQA, a passionate Tester/Developer with a strong focus on practica
 
 ## 🔧 Current Focus
 
-- **Seeking Opportunities:** Actively working towards securing a position in the field of manual testing.
+- **Seeking Opportunities:** Actively working towards securing a position in the field of manual testing or junior development for abap or python.
 - **Automated Testing with Selenium:** Improving skills in automated testing using Selenium with Java.
 - **Python Coding Proficiency:** Enhancing Python coding skills with a focus on Object-Oriented Programming (OOP) and design patterns.
 - **SQL and Business Analytics:** Leveraging my experience in SQL and exploring the fascinating realm of business analytics.
